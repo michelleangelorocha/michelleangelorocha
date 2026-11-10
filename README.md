@@ -4,7 +4,7 @@
 
 ## 🌱 What I Work On
 
-- 🛡️ **Cybersecurity education** for adult learners, older adults, and K-12 students
+- 🛡️ **Cybersecurity workforce development & education** for adult learners, older adults, and K-12 students
 - 🤖 **AI literacy and ethics**, including AI in qualitative research
 - 🌎 **Emergent multilingual immigrant learners and families** and their paths into school and the workforce
 - 🎨 **Community-based, trauma-informed, and arts-based research**
