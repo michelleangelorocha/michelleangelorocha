@@ -1,4 +1,4 @@
-# Hi, I'm Dr. Michelle Angelo-Rocha 👋
+# Hi, I'm Dr. Michelle Angelo-Rocha
 
 **Cyber Research Analyst at Cyber Florida, USF** · Researcher and educator in cybersecurity workforce, AI, and multilingual communities
 
