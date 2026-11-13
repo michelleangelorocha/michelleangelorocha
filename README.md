@@ -29,7 +29,7 @@ A 3-week course helping older adults stay safe online and use AI with confidence
 
 - Angelo-Rocha, M., Oliveira de Paula, K., Guidio Alves de Oliveira, C. R., Donley, K., & Braunstein, L. (2026). 'Essa é a nossa luta!' Educators' perspectives on translanguaging as an inclusive pedagogy for Indigenous and refugee multilingual learners in Brazilian public schools. *The Language Learning Journal, 54*(3). [DOI](https://doi.org/10.1080/09571736.2026.2695466)
 - Oliveira de Paula, K., Angelo-Rocha, M., Janerrandra, M., & de Oliveira, C. R. G. A. (2026). Translanguaging as resilience: Trauma-informed and culturally sustaining education for Venezuelan Indigenous refugee students in Brazil's public schools. *International Electronic Journal of Elementary Education, 18*(2), 203-221.
-- Angelo-Rocha, M., & CyberBay Workforce Development Working Group (2026). *Modernizing the U.S. Cyber Talent Pipeline for the AI Era: A Multi-Sector Workforce Study and Regional Alignment Plan for Tampa Bay* [Research Report]. Cyber Florida at USF.
+- Angelo-Rocha, M., & CyberBay Workforce Development Working Group (2026). *Modernizing the U.S. Cyber Talent Pipeline for the AI Era: A Multi-Sector Workforce Study and Regional Alignment Plan for Tampa Bay* [Research Report]. Cyber Florida at USF.[DOI](https://www.researchgate.net/publication/403552703_Modernizing_the_US_Cyber_Talent_Pipeline_for_the_AI_Era_A_Multi-Sector_Workforce_Study_and_Regional_Alignment_Plan_for_Tampa_Bay)) 
 - Angelo-Rocha, M. (2026). Centering families, building bridges: Supporting multilingual children through school-community partnerships. In *Family Engagement in Education* (pp. 116-132). Routledge.
 
 📑 Full list of publications: [Google Scholar](https://scholar.google.com/citations?user=wjwokjEAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Michelle-Angelo-Rocha) · [ORCID](https://orcid.org/0000-0002-3504-9053)
@@ -54,7 +54,7 @@ A 3-week course helping older adults stay safe online and use AI with confidence
 - Open educational resources: GitHub, Markdown, and visual guides
 - Languages: Portuguese (native), English (fluent), Spanish (basic)
 
-## 🤝 Let's Connect
+## Let's Connect
 
 - Email: [michelleangelorocha@gmail.com](mailto:michelleangelorocha@gmail.com)
 - LinkedIn: [linkedin.com/in/michelleangelo-rocha](https://www.linkedin.com/in/michelleangelo-rocha)
