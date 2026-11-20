@@ -26,8 +26,12 @@ flowchart TB
     D --> D2["Indigenous Multilingual Education in Brazil"]
     D --> D3["Teacher Perspectives"]
     classDef me fill:#1f4e79,color:#ffffff,stroke:#1f4e79
-    classDef
-
+    classDef pillar fill:#dbe9f6,color:#1f4e79,stroke:#1f4e79
+    classDef item fill:#ffffff,color:#333333,stroke:#9bb7d4
+    class ME me
+    class A,B,M,C,D pillar
+    class A1,A2,A3,B1,B2,M1,M2,C1,C2,D1,D2,D3 item
+```
 
 ## What I Work On
 
