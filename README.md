@@ -13,24 +13,10 @@ flowchart TB
     ME --> M["Mentorship"]
     ME --> C["AI & Digital Literacy"]
     ME --> D["Multilingual Communities"]
-    A --> A1["Experience to Portfolio"]
-    A --> A2["Power Skills Workshop"]
-    A --> A3["Six-Phase Education Model"]
-    B --> B1["Practice to Research"]
-    B --> B2["Why the Literature Review Matters"]
-    M --> M1["K-12 and College Students"]
-    M --> M2["Career Changers"]
-    C --> C1["Everyday Tech, AI & Cyber Safety"]
-    C --> C2["Synthetic Listening"]
-    D --> D1["Immigrant Latinx & Caribbean Families"]
-    D --> D2["Indigenous Multilingual Education in Brazil"]
-    D --> D3["Teacher Perspectives"]
     classDef me fill:#1f4e79,color:#ffffff,stroke:#1f4e79
     classDef pillar fill:#dbe9f6,color:#1f4e79,stroke:#1f4e79
-    classDef item fill:#ffffff,color:#333333,stroke:#9bb7d4
     class ME me
     class A,B,M,C,D pillar
-    class A1,A2,A3,B1,B2,M1,M2,C1,C2,D1,D2,D3 item
 ```
 
 ## What I Work On
