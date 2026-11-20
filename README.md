@@ -9,7 +9,7 @@ I help communities often left out of technology and research, including immigran
 flowchart TB
     ME(["Dr. Michelle Angelo-Rocha<br/>Turning practice into research and tools"])
     ME --> A["Cybersecurity Workforce"]
-    ME --> B["Research Methods"]
+    ME --> B["Qualitative Research Methods"]
     ME --> M["Mentorship"]
     ME --> C["AI & Digital Literacy"]
     ME --> D["Multilingual Communities"]
