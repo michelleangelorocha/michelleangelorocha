@@ -4,11 +4,13 @@
 
 I help communities often left out of technology and research, including immigrant families, older adults, and career changers, build the skills and confidence to thrive in a digital, AI-driven world.
 
+
 ```mermaid
-flowchart TB
+flowchart LB
 ME(["Dr. Michelle Angelo-Rocha Turning practice into research and tools"])
 ME --> A["🛡️ Cybersecurity Workforce"]
-ME --> B["🔬 Research Methods & Mentoring"]
+ME --> B["🔬 Research Methods"]
+ME --> M["🤝 Mentorship"]
 ME --> C["🤖 AI & Digital Literacy"]
 ME --> D["🌎 Multilingual Communities"]
 A --> A1["Experience to Portfolio"]
@@ -16,16 +18,19 @@ A --> A2["Power Skills Workshop"]
 A --> A3["Six-Phase Education Model"]
 B --> B1["Practice to Research"]
 B --> B2["Why the Literature Review Matters"]
+M --> M1["K-12 and college students"]
+M --> M2["Career changers"]
 C --> C1["Everyday Tech, AI & Cyber Safety"]
 C --> C2["Synthetic Listening"]
-D --> D1["Translanguaging research"]
-D --> D2["Family-school partnerships"]
+D --> D1["Immigrant Latinx & Caribbean families"]
+D --> D2["Indigenous multilingual education in Brazil"]
+D --> D3["Teacher perspectives"]
 classDef me fill:#1f4e79,color:#ffffff,stroke:#1f4e79
 classDef pillar fill:#dbe9f6,color:#1f4e79,stroke:#1f4e79
 classDef item fill:#ffffff,color:#333333,stroke:#9bb7d4
 class ME me
-class A,B,C,D pillar
-class A1,A2,A3,B1,B2,C1,C2,D1,D2 item
+class A,B,M,C,D pillar
+class A1,A2,A3,B1,B2,M1,M2,C1,C2,D1,D2,D3 item
 ```
 
 ## What I Work On
@@ -102,9 +107,8 @@ My research with emergent multilingual families and educators appears in the pub
 
 ## Let's Connect
 
-* Email: michelleangelorocha@gmail.com
-* LinkedIn: linkedin.com/in/michelleangelo-rocha
-* Google Scholar: Michelle Angelo-Rocha
-* ResearchGate: Michelle Angelo-Rocha
-* ORCID: 0000-0002-3504-9053
-````
+* Email: [michelleangelorocha@gmail.com](mailto:michelleangelorocha@gmail.com)
+* LinkedIn: [linkedin.com/in/michelleangelo-rocha](https://www.linkedin.com/in/michelleangelo-rocha)
+* Google Scholar: [Michelle Angelo-Rocha](https://scholar.google.com/citations?user=wjwokjEAAAAJ)
+* ResearchGate: [Michelle Angelo-Rocha](https://www.researchgate.net/profile/Michelle-Angelo-Rocha)
+* ORCID: [0000-0002-3504-9053](https://orcid.org/0000-0002-3504-9053)
