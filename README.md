@@ -4,7 +4,6 @@
 
 I help communities often left out of technology and research, including immigrant families, older adults, and career changers, build the skills and confidence to thrive in a digital, AI-driven world.
 
- 
 ```mermaid
 flowchart TB
     ME["Dr. Michelle Angelo-Rocha: Turning Practice into Research and Tools"]
@@ -40,7 +39,6 @@ flowchart TB
     class A,B,M,C,D pillar
     class A1,A2,A3,B1,B2,M1,M2,C1,C2,D1,D2,D3 item
 ```
-
 
 ## What I Work On
 
