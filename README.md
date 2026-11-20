@@ -48,7 +48,7 @@ class A1,A2,A3,B1,B2,M1,M2,C1,C2,D1,D2,D3 item
 
 ## Featured Projects
 
-### 🛡️ Cybersecurity Workforce and Careers
+### Cybersecurity Workforce and Careers
 
 **Experience to Portfolio**
 A free guided toolkit that helps students and career changers turn their experience into portfolio entries employers can see.
@@ -64,7 +64,7 @@ Free, visual guides that help student researchers, leaders, and community organi
 **Why the Literature Review Matters**
 What two years of slow reading taught me: a visual guide for students on building expertise, reading in layers, and using AI without losing the thinking.
 
-### 🤖 AI and Digital Literacy
+###  AI and Digital Literacy
 
 **Everyday Tech, AI and Cyber Safety: Building Confidence in a Digital World**
 A 3-week course helping older adults stay safe online and use AI with confidence.
