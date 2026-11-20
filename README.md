@@ -82,7 +82,7 @@ My research with emergent multilingual families and educators appears in the pub
 * Angelo-Rocha, M., & CyberBay Workforce Development Working Group (2026). *Modernizing the U.S. Cyber Talent Pipeline for the AI Era: A Multi-Sector Workforce Study and Regional Alignment Plan for Tampa Bay* [Research Report]. Cyber Florida at USF. ResearchGate
 * Angelo-Rocha, M., [CO-AUTHORS]. (2025). *It Takes More Than a Certificate: A Holistic Model for Cyber Workforce Education & Program Evaluation* [Research Report]. Cyber Florida at USF. ResearchGate
 
-📑 Full list of publications: Google Scholar · ResearchGate · ORCID
+📑 Full list of publications: [Google Scholar](https://scholar.google.com/citations?user=wjwokjEAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Michelle-Angelo-Rocha) · [ORCID](https://orcid.org/0000-0002-3504-9053)
 
 ## Background
 
