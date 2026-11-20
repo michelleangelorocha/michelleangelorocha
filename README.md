@@ -9,8 +9,6 @@ I help communities often left out of technology and research, including immigran
 flowchart TD
     A["My Research"] --> B["Cybersecurity"]
     A --> C["AI Literacy"]
-```
-
     ME --> A["Cybersecurity Workforce"]
     ME --> B["Research Methods"]
     ME --> M["Mentorship"]
