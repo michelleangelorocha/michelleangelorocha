@@ -5,7 +5,6 @@
 I help communities often left out of technology and research, including immigrant families, older adults, and career changers, build the skills and confidence to thrive in a digital, AI-driven world.
 
 
-```mermaid
 flowchart TB
 ME(["Dr. Michelle Angelo-Rocha Turning practice into research and tools"])
 ME --> A[" Cybersecurity Workforce"]
