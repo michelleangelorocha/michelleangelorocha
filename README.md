@@ -6,7 +6,7 @@ I help communities often left out of technology and research, including immigran
 
 
 ```mermaid
-flowchart LR
+flowchart TB
 ME(["Dr. Michelle Angelo-Rocha Turning practice into research and tools"])
 ME --> A["🛡️ Cybersecurity Workforce"]
 ME --> B["🔬 Research Methods"]
